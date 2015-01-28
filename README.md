@@ -1,2 +1,2 @@
 # beautifulpython
-Examples of beautiful Python programs.
+Examples of beautiful programs/algorithms (written in Python). 
