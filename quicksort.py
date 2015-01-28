@@ -1,3 +1,4 @@
+# Given a list, perform a quicksort
 
 def qsort1(list):
   if list == []: 
