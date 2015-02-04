@@ -1,2 +1,2 @@
 # beautifulpython
-Examples of beautiful programs/algorithms (written in Python). 
+And by beautiful I mean recursive.
