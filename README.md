@@ -672,3 +672,7 @@ print sum(i**2 for i in xrange(10))
 ```
 
 First way tells you what to do, second way tells you what you want.
+
+### Contact
+
+Have a suggestion? Contact me! jessefish [at] gmail
