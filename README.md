@@ -1,4 +1,10 @@
-# Transforming Code into Beautiful, Idiomatic Python
+# Beautiful Python 
+
+This repository contains many examples of recurision in Python. 
+
+Recursion is a way of programming in which a function calls itself one or more times to solve a particular problem. A recursive program will always have a 'termination condition.' This condition makes sure that a recursive function terminates. With every recursive call the solution of the problem is downsized and moves towards a base case. A base case is a case where the problem can be solved without further recursion. A recursion can lead to an infinite loop if the base case is not met in the calls and a termination condition is never called.. 
+
+## Transforming Code into Beautiful, Idiomatic Python
 
 Notes from Raymond Hettinger's talk at PyCon US 2013 [video](http://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go), [slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1).
 
