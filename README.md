@@ -682,4 +682,4 @@ First way tells you what to do, second way tells you what you want.
 
 ### Contact
 
-Have a suggestion? Contact me! jessefish [at] gmail
+Have a suggestion? A correction? Contact me! jessefish [at] gmail
