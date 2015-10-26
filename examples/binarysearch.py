@@ -1,5 +1,6 @@
 # Given a list of numbers to search for in an ordered list, 
 # retrieve the index of the given number
+# https://github.com/essejhsif
 
 def binary_search_recursive(li, left, right, key):
   while True:
