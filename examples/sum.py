@@ -1,5 +1,5 @@
 # Given a list of numbers, sum them up recursively
-
+# https://github.com/essejhsif
 def sum(list):
   if list == []:
     return 0
