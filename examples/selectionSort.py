@@ -1,3 +1,6 @@
+# Performs a selection sort on a list of numbers
+# https://github.com/essejhsif
+
 def selectionSort(list):
   if (len(list) < 2):
     return list
