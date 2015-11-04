@@ -1,4 +1,5 @@
 # Given a list, return the index of a given value (n)
+# https://github.com/essejhsif
 
 def search(n, l):
   try:
