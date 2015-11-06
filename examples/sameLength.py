@@ -1,3 +1,6 @@
+# Recursively evaluates whether string 1 (s1) is the same
+# length as string 2 (s2)
+# https://github.com/essejhsif
 
 import sys
 
