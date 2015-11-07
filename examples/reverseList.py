@@ -1,4 +1,5 @@
 # Given a list, reverse its order
+# https://github.com/essejhsif
 
 def reverse(l):
   if l == []:
