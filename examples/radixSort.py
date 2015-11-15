@@ -1,3 +1,6 @@
+# Sort list using radix algo recursively 
+# https://github.com/essejhsif
+
 def radixSort(list):
   # Only works for lists of non-negative integers!
   maxValue = max(list)
